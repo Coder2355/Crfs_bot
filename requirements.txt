@@ -1,0 +1,4 @@
+pyrogram==2.0.106  # Ensure you're using the latest Pyrogram version
+beautifulsoup4==4.10.0
+requests==2.26.0
+tgcrypto
